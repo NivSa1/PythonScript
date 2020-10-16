@@ -1,0 +1,2 @@
+This is a script that copies JPG files from a source path to a destination path,
+and gives a running name to all files that are padded with zeros.
